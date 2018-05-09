@@ -1,0 +1,18 @@
+/*
+ * MP_Laserspiel.cpp
+ *
+ * Created: 09.05.2018 23:42:29
+ * Author : Larsen
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+
